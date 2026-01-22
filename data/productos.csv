@@ -1,0 +1,10 @@
+id,nombre,precio,stock,categoria
+1,Kunai Estándar,150,500,armas
+2,Shuriken de 4 Puntas,80,1000,armas
+3,Píldora de Alimento,500,50,medicina
+4,Papel Bomba (Explosivo),300,200,herramientas
+5,Chaleco Táctico Jonin,15000,10,armadura
+6,Pergamino de Sellado,5000,5,herramientas
+7,Ramen Instantáneo (Ichiraku),1200,25,alimentos
+8,Katana ANBU,25000,3,armas
+9,RasenShuriken,1231222,56,arrojadiza

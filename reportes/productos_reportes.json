@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "nombre": "Perfume Aurora",
+        "precio": "35000",
+        "stock": "4",
+        "categoria": "perfumeria"
+    },
+    {
+        "id": "2",
+        "nombre": "Mouse Gamer X12",
+        "precio": "15000",
+        "stock": "15",
+        "categoria": "tecnologia"
+    },
+    {
+        "id": "3",
+        "nombre": "Cafe torrado",
+        "precio": "5000",
+        "stock": "0",
+        "categoria": "alimentos"
+    },
+    {
+        "id": "5",
+        "nombre": "ps5",
+        "precio": "1243213122",
+        "stock": "2312",
+        "categoria": "juegos"
+    },
+    {
+        "id": "6",
+        "nombre": "matias",
+        "precio": "123121",
+        "stock": "3",
+        "categoria": "sosa"
+    }
+]
